@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/testdbaccess.iml" filepath="$PROJECT_DIR$/.idea/testdbaccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestDBConcurrency.iml" filepath="$PROJECT_DIR$/.idea/TestDBConcurrency.iml" />
     </modules>
   </component>
 </project>
